@@ -1,0 +1,7 @@
+venv/
+venv311/
+__pycache__/
+similarity.pkl
+.streamlit/secrets.toml
+.ipynb_checkpoints
+.ipynb_checkpoints/
